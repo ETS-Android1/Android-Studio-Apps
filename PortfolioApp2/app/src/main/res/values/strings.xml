@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Portfolio App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="enter_name_and_position">Enter Name and Position</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_position">Enter Position</string>
+    <string name="enter_education">Enter Education</string>
+    <string name="enter_university_name">Enter University Name</string>
+    <string name="enter_degree">Enter Degree</string>
+
+    <string name="enter_course">Enter Course</string>
+    <string name="enter_organization_name">Enter Organization Name</string>
+    <string name="enter_course_name">Enter Course Name</string>
+    <string name="enter_year">Enter Year</string>
+    <string name="enter_github_username">Enter Github username</string>
+    <string name="submit">Submit</string>
+    <string name="cloud">Cloud</string>
+    <string name="full_name">ShahRukh Khan</string>
+    <string name="actor">Actor</string>
+    <string name="education">Education</string>
+    <string name="hansraj_college">Hansraj College</string>
+    <string name="mass_communication">Mass Communication</string>
+    <string name="courses">Courses</string>
+    <string name="_1985_88">1985–88</string>
+    <string name="organization">Organization</string>
+    <string name="course_name">Course Name</string>
+    <string name="year">Year</string>
+    <string name="open_github">Open Github</string>
+</resources>
